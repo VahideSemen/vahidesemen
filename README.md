@@ -8,7 +8,8 @@ Gerçek kurumsal projeler geliştiriyor, hem web hem de masaüstü uygulamalar t
 Birçok projeyi sıfırdan ben kurdum; mimarisinden veritabanına kadar tamamını yönetiyorum.
 
 ## 🚧 Şu anda üzerinde çalıştığım projeler
-- Kurumsal web siteleri  
+- Kurumsal web siteleri
+- Kurumsal Masaüstü Uygulamaları  
 - Sipariş takip sistemleri  
 - Personel ve izin yönetim uygulamaları  
 - Erişilebilirlik temalı özel proje geliştirmeleri (*henüz yayınlanmadı*)
@@ -26,4 +27,4 @@ tam tersine daha güçlü odaklanmamı ve daha disiplinli çalışmamı sağlad�
 Kendi yeteneğimle gerçek şirket projeleri geliştirdim ve geliştirmeye devam ediyorum.
 
 📫 Bana ulaşmak için:  
-İstersen buraya ileride mail adresi ekleyebiliriz.
+vahidesemen@gmail.com
